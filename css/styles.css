@@ -362,7 +362,7 @@ letter-spacing: 0.03em;
   fill: #AFB1B8 ;
 }
 
-.team-social-icon:hover {
+.team-social-item:hover .team-social-icon {
   fill: var(--white);
 }
 
