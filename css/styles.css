@@ -132,7 +132,6 @@ list-style: none;
 }
 
 .hero {
-  min-width: 1600px;
   height: 600px;
   padding-top: 200px;
   padding-bottom: 200px;
@@ -551,6 +550,7 @@ background-color: var(--section-bg);
 .btn-portfolio:focus {
 color: var(--white);
 background-color: var(--accent-cl);
+box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 cursor: pointer;
 outline: none;
 }
